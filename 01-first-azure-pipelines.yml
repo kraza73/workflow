@@ -10,7 +10,7 @@ pool:
   vmImage: ubuntu-latest
 
 steps:
-- script: echo Hello, world from - Syed kashif raza Zaidi!
+- script: echo Hello, world from -- Syed kashif raza Zaidi!
   displayName: 'Run a one-line script'
 
 - script: |
